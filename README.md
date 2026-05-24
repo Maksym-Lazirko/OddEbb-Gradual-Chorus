@@ -12,6 +12,8 @@
 
 Built with `juce::AudioProcessorValueTreeState`, all parameters are fully automatable and DAW-state-persistent.
 
+Current version works internally , work is needed on debugging external sidechain process.
+
 ---
 
 ## Features
